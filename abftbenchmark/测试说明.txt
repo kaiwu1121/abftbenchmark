@@ -1,0 +1,5 @@
+需要保护 ftdgemm_test.c 里面的gsl_matrix C
+
+
+运行输入
+	./ftdgemm_test 5000 100
